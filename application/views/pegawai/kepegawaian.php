@@ -6,7 +6,7 @@
 <!-- begin add div -->
 <a href="<?= base_url('user/kepegawaianExportExcel/'); ?>" target="_blank" class="btn btn-primary mb-3" ><i class="fa fa-download" style="font-size:12px"> Export Excel</i></a>
 <a href="<?= base_url('user/kepegawaianExportPdf/'); ?>" target="_blank" class="btn btn-warning mb-3" ><i class="fa fa-file" style="font-size:12px"> Export Pdf</i></a>
-<a href="<?= base_url('user/kepegawaianExportPdf/'); ?>" target="_blank" class="btn btn-danger mb-3" ><i class="fa fa-print" style="font-size:12px"> Print</i></a>
+<a href="<?= base_url('user/kepegawaianPrint/'); ?>" target="_blank" class="btn btn-danger mb-3" ><i class="fa fa-print" style="font-size:12px"> Print</i></a>
 <!-- end add div -->
 
     <div class="row">
